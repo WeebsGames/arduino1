@@ -1,5 +1,5 @@
 /*HEADER
-Areeb Jamili, 669950568, ajami7
+Areeb Jamili
 Lab 1 - 3 Way Blink
 This code makes 3 led lights blink at different intervals
 I assumed the arduino would be able to run the compiled code. I also assumed that the resistors that were labeled 220 ohms would be 220 ohms. 
